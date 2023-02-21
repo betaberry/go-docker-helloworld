@@ -44,5 +44,5 @@ func main() {
 	// url - 方法 映射
 	router.GET("/index", getSchools)
 
-	router.Run("localhost:8081")
+	router.Run("0.0.0.0:8081")
 }
