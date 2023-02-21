@@ -8,5 +8,5 @@
 ```
 
 dockerfile已准备好
-镜像可以在https://hub.docker.com/r/betaberry/go-helloworld访问
+镜像可以在https://hub.docker.com/r/betaberry/go-helloworld 访问
 
